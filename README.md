@@ -7,12 +7,8 @@
 ### <div align="center">I'm Tobiasz a full-time student 👨‍💻</div>  
   
 
-- 🌱 I’m currently learning Postman and .NET  
-  
-
-- ⚡ Fun fact: I use tabs over spaces  
-  
-
+- 🌱 I’m currently learning Spring  
+ 
 <br/>  
 
 <h3 align="left">Connect with me:</h3>

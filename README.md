@@ -7,7 +7,6 @@
 ### <div align="center">I'm Tobiasz a ComputerScience student 👨‍💻</div>  
 - 🤝 I’m currently working as **Functional Game Tester**
 - 🔭 I’m currently working on **Chess with AI**
-- 🌱 I’m currently learning **Spring**  
  
 <br/>  
 
